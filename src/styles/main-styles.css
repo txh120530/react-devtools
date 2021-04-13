@@ -1,0 +1,13 @@
+.flex-ed{display: -webkit-flex;
+display: -moz-flex;
+display: -ms-flex;
+display: -o-flex;
+display: flex; -webkit-flex-wrap: wrap;
+-moz-flex-wrap: wrap;
+-ms-flex-wrap: wrap;
+-o-flex-wrap: wrap;
+flex-wrap: wrap;}
+.sa{justify-content: space-around;}
+.center{text-align: center;}
+
+.main-container > div{flex: 0 1 45%; margin: 0 auto !important;}
